@@ -9,10 +9,12 @@ cut and paste of the data was used instead.
 Total confirmed cases was 764 million, with confirmed deaths at almost 7 million. This makes the percentage of deaths .91, but still a staggering amount. And this is only CONFIRMED cases so most likely
 higher than what was reported. 
 ##By Contient##
+
 The highest confirmed deaths by continent turns out to be Europe, which is a bit surprising to me since I assumed Asia, the largest continent would have the most problems with covid.
 This could be because the response places like China was much more urgent and strict compared to Europe. France, Italy, Germany, and Australia all had 50% or almost 50% infection rate by population. Incredibly high even 
 if the population count itself is not as high as places like China or U.S. China on the other hand had an amazinginly low amount of confirmed infections, not even breaking 100,000 in number despite the population being one of 
 the largest. 
+
 ##Vaccination##
 As far as vaccinations were concerned, it seemes like China leads the total vaccination numbers, which would explain why their confirmed cases were so low, followed by India, United States, and Russia. 
 ##Closing thoughts##
