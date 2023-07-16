@@ -9,6 +9,7 @@ The sql code originally had tables created at the end for easy visualization cre
 cut and paste of the data was used instead. 
 
 ##Global Numbers##
+
 Total confirmed cases was 764 million, with confirmed deaths at almost 7 million. This makes the percentage of deaths .91, but still a staggering amount. And this is only CONFIRMED cases so most likely
 higher than what was reported. 
 
